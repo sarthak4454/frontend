@@ -99,7 +99,7 @@ function MainContent() {
       <main>
         <Routes>
           {/* <Route path="/" element={<HomeScreen />} /> */}
-          <Route path="/home2" element={<HomeScreen2 />} />
+          <Route path="/" element={<HomeScreen2 />} />
           <Route path="/about" element={<About />} />
           <Route path="/account" element={<UserInfo />} />
           <Route path="/product" element={<ProductPage />} />
